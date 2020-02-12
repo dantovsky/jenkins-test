@@ -1,0 +1,2 @@
+Olá, aqui é um ficheiro de teste.
+Testando Jenkins configuration.
