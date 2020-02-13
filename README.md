@@ -10,8 +10,8 @@ git config git-ftp.syncroot .
 git ftp push --user $FTP_USERNAME --passwd $FTP_PASSWORD ftp://ftp.imediacto.com/jenkins.imediacto.com/
 ```
 
-```
 ## Config passo-a-passo, seguindo orientações do post do Diego Guimarães:
+```
 git config git-ftp.syncroot .
 git config git-ftp.user $FTP_USERNAME
 git config git-ftp.url ftp://ftp.imediacto.com/jenkins.imediacto.com/
